@@ -3,6 +3,6 @@
 **Name:** Maverick Hallett
 **GU username:** mhallett
 
-My live page: https://YOUR-GITHUB-USERNAME.github.io/bmis235-html-2/
+My live page: https://hallettmav22.github.io/bmis235-html-2/
 
 Instructions: https://gu-27.github.io/html-module/html-2.html
